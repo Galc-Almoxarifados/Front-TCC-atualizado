@@ -1,5 +1,4 @@
 
-import { Pedido } from './../../../Front-TCC-atualizado/src/app/pedido/pedido.model';
 import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';
 import { PedidoProfessor } from './pedidosProfessor';
